@@ -1,6 +1,6 @@
 ## No Intro Fix for Jackbox Partypack 6
 
-Makes the game open directly to the main menu. Easy installation.
+A simple mod that makes the game open directly to the main menu. Easy installation.
 
 
 
